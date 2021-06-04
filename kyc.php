@@ -40,7 +40,7 @@
                         <div class="century" style="font-size: 20px;color: #333"> Upload your KYC Documents</div>
                         <div class="century" style="font-size: 13px;color: #222">Know Your Customer-KYC enables <?php echo wallet_names(); ?> to know the clients and their financial dealings for better services and risk management.</div>
                         <div style="padding:20px"></div>
-                        <a href="OBORTECH_SAFT_112020.pdf" target="_blank" class="btn btn-danger">Download SAFT Document</a> 
+                        <a href="Coinnest_SAFT.pdf" target="_blank" class="btn btn-danger">Download SAFT Document</a> 
                         <div style="padding:20px"></div>
                         <h5>Fill it with correct information and upload below</h5>
                         

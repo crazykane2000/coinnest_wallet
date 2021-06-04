@@ -76,7 +76,7 @@
 
                 <div class="col-xl-6 col-xs-12">
                     <div class="card-box items">
-                        <h4 class="header-title m-t-0 m-b-20">Amount of <?php echo token_names();  ?> to be sent </h4>
+                        <!-- <h4 class="header-title m-t-0 m-b-20">Amount of <?php echo token_names();  ?> to be sent </h4> -->
                          <h3  style="font-family: 'Didact Gothic', sans-serif;font-weight:bold;color:red;font-size: 20px;">Caution! </h3>                         
                          <hr/>
                          <ul style="font-family: 'Didact Gothic', sans-serif;color: #444;font-size: 16px;">
