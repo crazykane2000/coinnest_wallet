@@ -2,7 +2,7 @@
    $host = '127.0.0.1';
         $db   = 'coinnest';
         $user = 'root';
-        $pass = 'Aimedis@213';
+        $pass = 'Password';
         $charset = 'utf8';
     $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
     $opt = [
